@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/first-reactapp/static/css/main.4180a607.chunk.css",
+    "main.js": "/first-reactapp/static/js/main.33038cc7.chunk.js",
+    "main.js.map": "/first-reactapp/static/js/main.33038cc7.chunk.js.map",
+    "runtime-main.js": "/first-reactapp/static/js/runtime-main.7cfb799f.js",
+    "runtime-main.js.map": "/first-reactapp/static/js/runtime-main.7cfb799f.js.map",
+    "static/js/2.8911d523.chunk.js": "/first-reactapp/static/js/2.8911d523.chunk.js",
+    "static/js/2.8911d523.chunk.js.map": "/first-reactapp/static/js/2.8911d523.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/first-reactapp/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/first-reactapp/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/first-reactapp/index.html",
+    "static/css/main.4180a607.chunk.css.map": "/first-reactapp/static/css/main.4180a607.chunk.css.map",
+    "static/js/2.8911d523.chunk.js.LICENSE.txt": "/first-reactapp/static/js/2.8911d523.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/first-reactapp/static/media/bg-mobile.41ba0830.svg",
+    "static/media/illustration-mockups.264994a5.svg": "/first-reactapp/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/first-reactapp/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cfb799f.js",
+    "static/js/2.8911d523.chunk.js",
+    "static/css/main.4180a607.chunk.css",
+    "static/js/main.33038cc7.chunk.js"
+  ]
+}
